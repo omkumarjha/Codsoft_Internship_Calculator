@@ -37,10 +37,10 @@ body{
 input[type="text"]{
     width: 97%;
     box-sizing: border-box;
-    height: 80px;
+    height: 110px;
     margin-bottom: 7px;
     box-shadow: 0 3px rgba(0,0,0,0.2);
-    font-size: 18px;
+    font-size: 19px;
     padding: 0px 10px;
 }
 
