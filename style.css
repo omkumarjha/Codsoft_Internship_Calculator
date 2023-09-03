@@ -40,6 +40,8 @@ input[type="text"]{
     height: 80px;
     margin-bottom: 7px;
     box-shadow: 0 3px rgba(0,0,0,0.2);
+    font-size: 18px;
+    padding: 0px 10px;
 }
 
 .text-row{
